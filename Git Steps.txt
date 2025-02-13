@@ -1,0 +1,9 @@
+1. git clone <Copy your Repository URL>
+
+2. go the repository folder
+
+3. git add .
+
+4. git commit -m "<Message>"
+
+5. git push
